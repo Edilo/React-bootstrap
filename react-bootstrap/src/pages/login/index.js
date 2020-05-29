@@ -14,7 +14,7 @@ function Login() {
                 <div className="col col-sm-6 font-weight-bold rounded text-center pt-2 pb-2 pl-5 pr-5 mt-5">
                     <form className="form-group">
                         <div className="card">
-                            <div class="card-header">
+                            <div className="card-header">
                                 Login
                             </div>
                             <div className="card-body">
